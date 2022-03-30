@@ -17,8 +17,10 @@ The purpose of this task was to determine how many of Pewlett-Hackard's empolyee
 <img width="951" alt="mentoring_titles" src="https://user-images.githubusercontent.com/98666231/160921958-0ff26f3c-7a50-4a4b-9aae-fbfc362a08c7.png">
 
 ## Summary
+
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
   Once the sliver tsunami begins 90,398 roles need to be filled.
+  
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
   There isn't enough qualified empolyees to mentor the next generation of Pewlett Hackard employees. There are about 90,000 mentees and about 1,550 mentors.
  
